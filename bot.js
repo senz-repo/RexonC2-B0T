@@ -263,7 +263,7 @@ client.once('ready', () => {
     client.user.setPresence({
         status: 'available',
         activity: {
-            name: 'HENTAI',
+            name: 'RexonC2 Main Servers',
             type: 'WATCHING',
             url: 'https://discord.com/'
         }
@@ -283,4 +283,4 @@ client.on('error', e => {
   console.log(chalk.b.red(e.replace(regToken, 'that was.redacted')));
 });
 
-client.login("PASTE YOUR BOT TOKEN");
+client.login("MTA4Mjg5NDg0NzEyMTI5MzM0Mw.G31Lc6.SME46DJEXPUF3C8bhl5krzL5zpES0zHr51on6o");
